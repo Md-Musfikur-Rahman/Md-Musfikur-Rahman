@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Musfikur-Rahman&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Musfikur-Rahman&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<a href="https://app.daily.dev/mushfikur"><img src="https://api.daily.dev/devcards/d2d5d62e1dbd413893d2e02cf509f680.png?r=l74" width="400" alt="Md Mushfikur Rahman's Dev Card"/></a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
