@@ -2,14 +2,6 @@
 <h1 align="center"> Hi 👋🏻, I'm Md Musfikur Rahman </h1>
 👨‍🎓 I will be completing my bachelor’s degree in CSE<br>🔭 Looking for internship as front-end developer<br>🔎 Interested in Machine Learning and Software Systems<br>📚 Gaining a better understanding of Web 3 and Software<br>🎮 Love to play Multiplayer Games like Valorant, PUBG
 
-
-# 🌐 Socials:
-<a href="https://app.daily.dev/mushfikur"><img src="https://api.daily.dev/devcards/d2d5d62e1dbd413893d2e02cf509f680.png?r=zdb" width="400" alt="Md Mushfikur Rahman's Dev Card"/></a><br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mmrmasum99) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Md_MusfikurRahman) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-musfikur-rahman) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MdMusfikuRahman) 
-
 # 💻 Tech Stack:
 
 #### Languages
@@ -68,11 +60,22 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+# 😳 Profile views:
 ![Profile views](https://gpvc.arturio.dev/Md-Musfikur-Rahman)   
+
+# 🌐 Socials:
+### [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mmrmasum99) 
+### [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Md_MusfikurRahman) 
+### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-musfikur-rahman) 
+### [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MdMusfikuRahman) 
  
- ## 💰 You can help me by Donating
+<!--  ## 💰 You can help me by Donating
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/MdMusfikurRahman)
  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/MdMusfikurRahman) 
-
+ -->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
