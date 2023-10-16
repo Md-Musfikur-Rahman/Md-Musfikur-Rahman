@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center"> Hi 👋🏻, I'm Md Musfikur Rahman </h1>
-👨‍🎓 I will be completing my bachelor’s degree in CSE<br>🔭 Looking for internship as front-end developer<br>🔎 Interested in Machine Learning and Software Systems<br>📚 Gaining a better understanding of Web 3 and Software<br>🎮 Love to play Multiplayer Games like Valorant, PUBG
+👨‍🎓 I will be completing my bachelor’s degree in CSE<br>🔭 Looking for internship as front-end developer<br>🔎 Interested in Machine Learning, Blockchain and Web development<br>📚 Gaining a better understanding of Web 3 and Mobile applications<br>🎮 Love to play Multiplayer Games like Valorant, PUBG
 
 # 💻 Tech Stack:
 
