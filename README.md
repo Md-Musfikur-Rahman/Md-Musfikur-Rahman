@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center"> Hi 👋🏻, I'm Md Musfikur Rahman </h1>
-👨‍🎓 I will be completing my bachelor’s degree in CSE<br>🔭 Looking for internship as front-end developer<br>🔎 Interested in Machine Learning, Blockchain and Web development<br>📚 Gaining a better understanding of Web 3 and Mobile applications<br>🎮 Love to play Multiplayer Games like Valorant, PUBG
+👨‍🎓 I will be completing my bachelor’s degree in CSE<br>🔭 Looking for position as front-end developer<br>🔎 Interested in Blockchain and Software development<br>📚 Gaining a better understanding of Web 3 and Mobile applications<br>🎮 Love to play Multiplayer Games like Valorant, PUBG
 
 # 💻 Tech Stack:
 
@@ -67,12 +67,8 @@
 ![Profile views](https://gpvc.arturio.dev/Md-Musfikur-Rahman)   
 
 # 🌐 Socials:
-### [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdmusfikurrahman23) 
-### [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdmusfikurrahman23) 
-### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmusfikurrahman) 
+### [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/musfikurrahman002) 
+### [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/Md_MusfikurRahman) 
+### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmusfikurrahman) 
 ### [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/musfikurahman) 
- 
-<!--  ## 💰 You can help me by Donating
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/MdMusfikurRahman)
- [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/MdMusfikurRahman) 
- -->
+
